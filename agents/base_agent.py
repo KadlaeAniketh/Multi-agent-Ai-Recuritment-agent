@@ -6,12 +6,6 @@ import json
 import google.generativeai as genai
 # import os # No longer needed for configuration
 
-# ################################################################
-# # EXTREME SECURITY WARNING:                                    #
-# # Hardcoding API keys is insecure. Use a NEW, VALID key below. #
-# # REVOKE the old key (AIzaSy...npJA) immediately.              #
-# ################################################################
-
 # --- Directly Hardcoded API Key (REPLACE THIS!!!) ---
 HARDCODED_API_KEY = "AIzaSyB50jqXOAdWps5x1xjot0v1EAqOjCFizHM"  # <<< PUT YOUR *NEW* VALID KEY HERE
 # --------------------------------------------------
