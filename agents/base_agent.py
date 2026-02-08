@@ -7,7 +7,7 @@ import google.generativeai as genai
 # import os # No longer needed for configuration
 
 # --- Directly Hardcoded API Key (REPLACE THIS!!!) ---
-HARDCODED_API_KEY = "AIzaSyBY7BRWw96iD29cZLjJw7sTh5eWfGt3Ee0"  # <<< PUT YOUR *NEW* VALID KEY HERE
+HARDCODED_API_KEY = "AIzaSyB6FAb6qLJCqSXlVZZsAeZ1l8XPmcxIEpw" # <<< PUT YOUR *NEW* VALID KEY HERE
 # --------------------------------------------------
 
 # --- Directly Hardcoded Model Name ---
