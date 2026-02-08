@@ -13,11 +13,11 @@ import google.generativeai as genai
 # ################################################################
 
 # --- Directly Hardcoded API Key (REPLACE THIS!!!) ---
-HARDCODED_API_KEY = "AIzaSyCRPQ1gY51jmgL2fo1Hp69sE6uzQNKnpJA" # <<< PUT YOUR *NEW* VALID KEY HERE
+HARDCODED_API_KEY = "AIzaSyB50jqXOAdWps5x1xjot0v1EAqOjCFizHM"  # <<< PUT YOUR *NEW* VALID KEY HERE
 # --------------------------------------------------
 
 # --- Directly Hardcoded Model Name ---
-HARDCODED_MODEL_NAME = "gemini-1.5-flash-latest" # Or "gemini-pro", etc.
+HARDCODED_MODEL_NAME = "gemini-2.5-flash-latest" # Or "gemini-pro", etc.
 # ------------------------------------
 
 
